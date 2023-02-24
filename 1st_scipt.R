@@ -9,7 +9,7 @@ ncol(lbw)
 table(lbw$race)
 table(lbw$low)
 
-hist(lbw$bwt)
+boxplot(lbw$bwt)
 
 
 
