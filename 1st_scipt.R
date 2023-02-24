@@ -10,6 +10,7 @@ table(lbw$race)
 table(lbw$low)
 
 boxplot(lbw$bwt)
+hist(lbw$bwt)
 
 
 
